@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajcuddeback/Employee-tracker.git"
+    "url": "git+https://github.com/sfedai/Employee-tracker.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ajcuddeback/Employee-tracker/issues"
+    "url": "https://github.com/sfedai/Employee-tracker/issues"
   },
-  "homepage": "https://github.com/ajcuddeback/Employee-tracker#readme",
+  "homepage": "https://github.com/sfedai/Employee-tracker#readme",
   "dependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^7.3.3",
